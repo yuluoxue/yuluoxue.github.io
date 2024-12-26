@@ -156,3 +156,4 @@ twikoo:
     region:
     path: location.pathname
     lang:
+theme: particlex
